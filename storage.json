@@ -1,0 +1,146 @@
+{
+  "users": [
+    {
+      "id": 5915871770,
+      "username": "vinit0003",
+      "first_name": "𝓥𝒾ℕ𝒾𝐭",
+      "joined_date": "2025-05-31T14:49:58.340951",
+      "last_seen": "2025-05-31T15:32:52.588911"
+    },
+    {
+      "id": 6470798976,
+      "username": "Unknown",
+      "first_name": "Guddu",
+      "joined_date": "2025-05-31T14:50:31.300802",
+      "last_seen": "2025-05-31T15:34:38.074744"
+    }
+  ],
+  "books": [
+    {
+      "id": "1b0aab43-3ab3-46a4-ba54-f3c0ceb1d8f9",
+      "title": "Title",
+      "author": "Author",
+      "submitter_id": 6470798976,
+      "submitter_username": "Unknown",
+      "submitter_name": "Guddu",
+      "gdrive_link": "https://drive.google.com/file/d/1x_mJOHG3N62_bURNekJ4CLr6gT7kKcc2/view?usp=drivesdk",
+      "file_id": "",
+      "timestamp": "2025-05-31T14:51:40.605478",
+      "approved": true,
+      "approved_date": "2025-05-31T14:52:01.624296",
+      "approved_by": ""
+    },
+    {
+      "id": "dd9a6ea4-a907-44fe-8394-78c99f764a85",
+      "title": "Wren and Martin",
+      "author": "Unknown",
+      "submitter_id": 6470798976,
+      "submitter_username": "Unknown",
+      "submitter_name": "Guddu",
+      "gdrive_link": "",
+      "file_id": "BQACAgUAAxkBAAMZaDsYHBDvny8IGpPbwQlF4KrzU3IAAnQWAAKFQ9hVv1JslondLPA2BA",
+      "timestamp": "2025-05-31T14:54:21.187533",
+      "approved": true,
+      "approved_date": "2025-05-31T14:54:41.462839",
+      "approved_by": ""
+    },
+    {
+      "id": "fd0e1e7e-fba1-49b8-93e4-8a5b1b34f89f",
+      "title": "General english",
+      "author": "S.P Bakshi",
+      "submitter_id": 6470798976,
+      "submitter_username": "Unknown",
+      "submitter_name": "Guddu",
+      "gdrive_link": "https://drive.google.com/file/d/1x_mJOHG3N62_bURNekJ4CLr6gT7kKcc2/view?usp=drivesdk",
+      "file_id": "",
+      "timestamp": "2025-05-31T15:01:39.198542",
+      "approved": true,
+      "approved_date": "2025-05-31T15:02:56.834966",
+      "approved_by": ""
+    },
+    {
+      "id": "df1dd0c0-7d0c-472c-b853-3ac4ea222bd2",
+      "title": "General english",
+      "author": "S.P Bakshi",
+      "submitter_id": 6470798976,
+      "submitter_username": "Unknown",
+      "submitter_name": "Guddu",
+      "gdrive_link": "https://drive.google.com/file/d/1x_mJOHG3N62_bURNekJ4CLr6gT7kKcc2/view?usp=sharing",
+      "file_id": "",
+      "timestamp": "2025-05-31T15:10:06.597086",
+      "approved": true,
+      "approved_date": "2025-05-31T15:11:20.947515",
+      "approved_by": ""
+    },
+    {
+      "id": "69532d9e-dbed-416e-b361-06f3fa44d9d9",
+      "title": "General english",
+      "author": "S.P Bakshi",
+      "submitter_id": 6470798976,
+      "submitter_username": "Unknown",
+      "submitter_name": "Guddu",
+      "gdrive_link": "https://drive.google.com/file/d/1x_mJOHG3N62_bURNekJ4CLr6gT7kKcc2/view?usp=sharing",
+      "file_id": "",
+      "timestamp": "2025-05-31T15:13:28.451647",
+      "approved": false,
+      "approved_date": null,
+      "approved_by": null
+    },
+    {
+      "id": "2e675910-54c4-4623-9fc0-adcfb7c5c4ad",
+      "title": "General english",
+      "author": "S.P Bakshi",
+      "submitter_id": 6470798976,
+      "submitter_username": "Unknown",
+      "submitter_name": "Guddu",
+      "gdrive_link": "https://linkcents.com/DNelY",
+      "file_id": "",
+      "timestamp": "2025-05-31T15:16:20.304939",
+      "approved": true,
+      "approved_date": "2025-05-31T15:23:48.747081",
+      "approved_by": ""
+    },
+    {
+      "id": "98560c12-c284-45dc-9504-c989d0f5b266",
+      "title": "Original paper",
+      "author": "Unknown",
+      "submitter_id": 6470798976,
+      "submitter_username": "Unknown",
+      "submitter_name": "Guddu",
+      "gdrive_link": "",
+      "file_id": "BQACAgUAAxkBAANBaDsfWk5AIA7YX8qpd3wbWJV9NDAAApoWAAKFQ9hV38YYBWgSM0Y2BA",
+      "timestamp": "2025-05-31T15:25:14.519724",
+      "approved": true,
+      "approved_date": "2025-05-31T15:26:03.095834",
+      "approved_by": ""
+    },
+    {
+      "id": "4f377ddf-5cc1-488e-9e12-a04292d87cc2",
+      "title": "General english",
+      "author": "S.P Bakshi",
+      "submitter_id": 6470798976,
+      "submitter_username": "Unknown",
+      "submitter_name": "Guddu",
+      "gdrive_link": "https://drive.google.com/file/d/1x_mJOHG3N62_bURNekJ4CLr6gT7kKcc2/view?usp=sharing",
+      "file_id": "",
+      "timestamp": "2025-05-31T15:32:32.408423",
+      "approved": true,
+      "approved_date": "2025-05-31T15:33:24.733087",
+      "approved_by": ""
+    },
+    {
+      "id": "15dde09e-b01a-4273-99ce-f8afc3519da2",
+      "title": "Original paper",
+      "author": "Unknown",
+      "submitter_id": 6470798976,
+      "submitter_username": "Unknown",
+      "submitter_name": "Guddu",
+      "gdrive_link": "",
+      "file_id": "BQACAgUAAxkBAANBaDsfWk5AIA7YX8qpd3wbWJV9NDAAApoWAAKFQ9hV38YYBWgSM0Y2BA",
+      "timestamp": "2025-05-31T15:34:38.075447",
+      "approved": true,
+      "approved_date": "2025-05-31T15:34:56.234319",
+      "approved_by": ""
+    }
+  ]
+}
